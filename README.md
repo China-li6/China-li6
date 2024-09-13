@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @China-li6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-China-li6/China-li6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Java & Vue & SpringBoot & SpringCloud(AliBaBa)
+- 🌱 I’m currently learning Vue & js
+- 💞️ I’m looking to collaborate on Front-end development
+- 📫 How to reach me wechat:vx_6379 & email:guoba6@sina.com
